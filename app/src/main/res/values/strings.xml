@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contest Employcity</string>
+    <string name="popular">Popular</string>
+    <string name="favorites">Favorites</string>
+    <string name="sort">sort</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="value">Value</string>
+    <string name="select_type_sort">Select type sort</string>
+    <string name="sort_by">Sort by</string>
+    <string name="desc">Desc</string>
+    <string name="asc">Asc</string>
+    <string name="done">Done</string>
+</resources>
