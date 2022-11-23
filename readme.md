@@ -6,5 +6,5 @@
 
 ## Решение
 
-![](/contest/example.mp4)
+![](/contest/example.gif)
 
